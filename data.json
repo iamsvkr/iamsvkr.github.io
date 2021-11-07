@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "technology": "HTML",
+      "experience": 1,
+      "rating": 4
+    },
+    {
+      "technology": "Css",
+      "experience": 1,
+      "rating": 3
+    },
+    {
+      "technology": "Javascript",
+      "experience": 1,
+      "rating": 4
+    },
+    {
+      "technology": "Node.JS",
+      "experience": 1,
+      "rating": 4
+    },
+    {
+      "technology": "Gitlab CICD",
+      "experience": 1,
+      "rating": 2
+    },
+    {
+      "technology": "Docker",
+      "experience": 1,
+      "rating": 4
+    },
+    {
+      "technology": "Typescript",
+      "experience": 1,
+      "rating": 4
+    },
+    {
+      "technology": "Vue",
+      "experience": 1,
+      "rating": 4
+    },
+    {
+      "technology": "React",
+      "experience": 1,
+      "rating": 4
+    },
+    {
+      "technology": "C++",
+      "experience": 1,
+      "rating": 4
+    }
+  ]
+}
