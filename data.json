@@ -49,6 +49,11 @@
       "technology": "C++",
       "experience": 1,
       "rating": 4
+    },
+    {
+      "technology": "Stencil JS",
+      "experience": 1,
+      "rating": 3
     }
   ]
 }
