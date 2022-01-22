@@ -1,4 +1,12 @@
 {
+  "home": {
+    "intro": "Hi, I'am Shivam",
+    "profile": "Full Stack Developer",
+    "description": "Good Experience in frontend and backend technologies, producing quality work. Keen to learn and help others."
+  },
+  "aboutMe": {
+    "description": "Full stack developer, with extensive knowledge on various frontend and backend technologies. Currently working in Avalara as a Full stack developer."
+  },
   "skills": [
     {
       "technology": "HTML",
